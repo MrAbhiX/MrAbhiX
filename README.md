@@ -1,16 +1,22 @@
-### Hi there 👋
+### Hello There 👋🏻, welcome to my GitHub profile.
 
-<!--
-**MrAbhiX/MrAbhiX** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Let me introduce you about myself, my name is ABHI SINGH; 17 y.o from Rajasthan, India. My hobby is Listening music, Playing Game, design & create logos, images.
 
-Here are some ideas to get you started:
+Other thing you need to know:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🌱 I’m currently learning on programming.
+- 💬 Ask me about Telegram Bot
+- 📫 Contact me on: [Telegram](https://t.me/ElricXNoob)
+
+### My Stats
+![ABHI's GitHub stats](https://github-readme-stats.vercel.app/api?username=MrAbhiX&show_icons=true&theme=radical)
+
+[![NOICE](https://github-readme-stats.vercel.app/api/top-langs/?username=MrAbhiX&layout=compact&theme=midnight-purple&hide=Css)](https://github.com/MrAbhiX)
+
+![](https://visitor-badge.laobi.icu/badge?page_id=MrAbhiX)
+# My Stuffs:~
+
+- Student
+- Graphic Designer
+- Visual Studio Code ++
+- Telegram ✨
