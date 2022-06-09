@@ -6,14 +6,14 @@ Other thing you need to know:
 
 - 🌱 I’m currently learning on programming.
 - 💬 Ask me about Telegram Bot
-- 📫 Contact me on: [Telegram](https://t.me/ElricXNoob)
+- 📫 Contact me on: [Telegram](https://t.me/ItzNobitaXD)
 
 ### My Stats
-![ABHI's GitHub stats](https://github-readme-stats.vercel.app/api?username=MrAbhiX&show_icons=true&theme=radical)
+![ABHI's GitHub stats](https://github-readme-stats.vercel.app/api?username=Nobita-XD&show_icons=true&theme=radical)
 
-[![NOICE](https://github-readme-stats.vercel.app/api/top-langs/?username=MrAbhiX&layout=compact&theme=midnight-purple&hide=Css)](https://github.com/MrAbhiX)
+[![NOICE](https://github-readme-stats.vercel.app/api/top-langs/?username=Nobita-XD&layout=compact&theme=midnight-purple&hide=Css)](https://github.com/MrAbhiX)
 
-![](https://visitor-badge.laobi.icu/badge?page_id=MrAbhiX)
+![](https://visitor-badge.laobi.icu/badge?page_id=Nobita-XD)
 # My Stuffs:~
 
 - Student
